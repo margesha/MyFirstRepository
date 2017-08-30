@@ -9,3 +9,6 @@ hello git...Welcome!
 =======
 ---->change3 is changed
 >>>>>>> idea
+
+
+--->change 4
