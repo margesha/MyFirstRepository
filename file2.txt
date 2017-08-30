@@ -4,11 +4,9 @@ hello git...Welcome!
 
 ---->change 2
 
-<<<<<<< HEAD
-#3 --->change 3
-=======
 ---->change3 is changed
->>>>>>> idea
+
 
 
 --->change 4
+
